@@ -1,7 +1,9 @@
 # cnc-project
 3d model files of a CNC machine made for the Inovation Institute of Campos dos Goytacazes - Brazil
 
-Este projeto foi desenvolvido no Polo de Inovação Campos dos Goytacazes. Pode ser replicado e modificado.
+Este projeto foi desenvolvido no Polo de Inovação Campos dos Goytacazes. 
+
+O projeto pode ser replicado e modificado para qualquer finalidade.
 
 Alguns dos modelos 3D aqui foram retirados do GrabCAD, que permite uso não comercial:
 
