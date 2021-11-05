@@ -1,4 +1,4 @@
-# cnc-project
+# CNC Project
 3D model files of a CNC machine made for the Inovation Institute of Campos dos Goytacazes - Brazil
 
 Este projeto foi desenvolvido no Polo de Inovação Campos dos Goytacazes. 
